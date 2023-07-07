@@ -11948,7 +11948,7 @@ __webpack_require__.r(__webpack_exports__);
   "title": "Docubase",
   "tagline": "May The fork() Be With You",
   "favicon": "img/logo.jpg",
-  "url": "https://cbk2000.github.io",
+  "url": "https://static-file-hosting.github.io",
   "baseUrl": "/docubase/",
   "organizationName": "cbk2000",
   "projectName": "docubase",
